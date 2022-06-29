@@ -35,7 +35,7 @@
         <jest.version>6.3.1</jest.version>
         <jna.version>5.2.0</jna.version>
         <apache-dubbo.version>2.7.0</apache-dubbo.version>
-        <zookeeper.version>3.4.9</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <fastjson.version>1.1.34</fastjson.version>
         <thymeleaf-starter.version>2.1.6.RELEASE</thymeleaf-starter.version>
         <mybatis-generator-core.version>1.3.7</mybatis-generator-core.version>
