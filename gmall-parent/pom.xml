@@ -28,7 +28,7 @@
         <mybatis-starter.version>2.0.1</mybatis-starter.version>
         <nekohtml.version>1.9.22</nekohtml.version>
         <batik-ext.version>1.11</batik-ext.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <httpclient.version>4.5.9</httpclient.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <mapper-starter.version>2.0.1</mapper-starter.version>
